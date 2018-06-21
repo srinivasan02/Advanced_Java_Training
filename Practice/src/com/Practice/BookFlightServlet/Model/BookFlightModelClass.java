@@ -9,6 +9,7 @@ public class BookFlightModelClass
 	private double fare;
 	private int noofseats;
 	private String aircraftName;
+	private String aircraft;
 	
 	public String getFlightName() {
 		return flightName;
