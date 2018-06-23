@@ -1,8 +1,5 @@
 package com.Practice.FlightBooking.Service;
-import javax.xml.ws.Response;
-
 import com.Practice.BookFlightServlet.Model.BookFlightModelClass;
-import com.Practice.FlightBooking.Controller.BookFlight;
 import com.Practice.bookFlight.DAO.FlightDAODetails;
 
 public class BookFlightBusinessLogic 
