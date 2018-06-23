@@ -30,6 +30,7 @@ public class FlightDAODetails
 		
 		try {
 			
+			System.out.println("########################");
 			
 			//Registering the Driver
 			 Class.forName(JDBC_DRIVER);
